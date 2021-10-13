@@ -2,6 +2,15 @@
 
 A [Rhasspy](https://github.com/rhasspy/rhasspy) profile for Persian (`fa`).
 
+Trained from approximately 293 hours of audio from [Common Voice](https://commonvoice.mozilla.org/) (Persian 7.0 dataset, validated, 10% test).
+
+Available [Vosk](https://alphacephei.com/vosk) models:
+
+* [Small nnet3](https://github.com/rhasspy/fa_kaldi-rhasspy/releases/download/v1.0/vosk-model-small-fa-rhasspy-0.15.zip)
+    * WER: 15.57%
+* [Large nnet3](https://github.com/rhasspy/fa_kaldi-rhasspy/releases/download/v1.0/vosk-model-large-fa-rhasspy-0.15.zip)
+    * WER: 13.58%
+
 ## Installation
 
 Get started by first installing [Vosk](https://alphacephei.com/vosk):

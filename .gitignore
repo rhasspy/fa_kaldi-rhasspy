@@ -3,4 +3,6 @@
 *.log
 tmp/
 
+model/
 .venv/
+*.gz

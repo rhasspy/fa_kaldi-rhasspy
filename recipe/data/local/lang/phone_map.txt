@@ -1,0 +1,32 @@
+NSN NSN NSN_B NSN_E NSN_I NSN_S 
+SIL SIL SIL_B SIL_E SIL_I SIL_S 
+SPN SPN SPN_B SPN_E SPN_I SPN_S 
+æ æ_B æ_E æ_I æ_S 
+ɒː ɒː_B ɒː_E ɒː_I ɒː_S 
+e̞ e̞_B e̞_E e̞_I e̞_S 
+iː iː_B iː_E iː_I iː_S 
+o o_B o_E o_I o_S 
+uː uː_B uː_E uː_I uː_S 
+b b_B b_E b_I b_S 
+p p_B p_E p_I p_S 
+t t_B t_E t_I t_S 
+d d_B d_E d_I d_S 
+t͡ʃ t͡ʃ_B t͡ʃ_E t͡ʃ_I t͡ʃ_S 
+d͡ʒ d͡ʒ_B d͡ʒ_E d͡ʒ_I d͡ʒ_S 
+k k_B k_E k_I k_S 
+g g_B g_E g_I g_S 
+ʔ ʔ_B ʔ_E ʔ_I ʔ_S 
+f f_B f_E f_I f_S 
+v v_B v_E v_I v_S 
+s s_B s_E s_I s_S 
+z z_B z_E z_I z_S 
+ʃ ʃ_B ʃ_E ʃ_I ʃ_S 
+ʒ ʒ_B ʒ_E ʒ_I ʒ_S 
+x x_B x_E x_I x_S 
+ɢ ɢ_B ɢ_E ɢ_I ɢ_S 
+h h_B h_E h_I h_S 
+m m_B m_E m_I m_S 
+n n_B n_E n_I n_S 
+l l_B l_E l_I l_S 
+ɾ ɾ_B ɾ_E ɾ_I ɾ_S 
+j j_B j_E j_I j_S 
